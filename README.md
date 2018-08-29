@@ -1,3 +1,3 @@
 # Documentations
 
-This repository contains documentions for neo smartpen
+This repository contains documentions for Neo smartpen
